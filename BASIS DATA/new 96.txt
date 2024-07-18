@@ -1,0 +1,286 @@
+[RemoteTestNG] detected TestNG version 7.4.0
+https://basis.org.bd/member-list
+edge
+Starting Microsoft Edge WebDriver 126.0.2592.81 (38151611195b9357be892bf1ae5c4b7942a1b216) on port 42675
+To submit feedback, report a bug, or suggest new features, please visit https://github.com/MicrosoftEdge/EdgeWebDriver
+
+Only local connections are allowed.
+Please see https://aka.ms/WebDriverSecurity for suggestions on keeping Microsoft Edge WebDriver safe.
+
+Microsoft Edge WebDriver was started successfully.
+Jul 10, 2024 5:08:58 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+https://basis.org.bd/member-list
+edge
+Before navigating to: 'https://basis.org.bd/member-list'
+Navigated to:'https://basis.org.bd/member-list'
+https://basis.org.bd/member-list
+edge
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[1]/div[3]/h4/a
+Found Element By : By.xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[1]/div[3]/h4/a
+Trying to click on: [[EdgeDriver: MicrosoftEdge on WINDOWS (9413aa5618177f7ed68459919346d5ce)] -> xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[1]/div[3]/h4/a]
+Clicked on: [[EdgeDriver: MicrosoftEdge on WINDOWS (9413aa5618177f7ed68459919346d5ce)] -> xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[1]/div[3]/h4/a]
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/h1
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/h1
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[1]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[1]/span
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[2]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[2]/span
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[3]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[3]/span
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/h1
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/h1
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/p
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/p
+"Mr. Osman Haidar","Managing Director","01819424014","osman.haidar@trax.com.bd","TRAX Technologies Limited","TA-161, Badda High School Road, Middle Badda, Gulshan-1, Dhaka-1212"
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[2]/div[3]/h4/a
+Found Element By : By.xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[2]/div[3]/h4/a
+Trying to click on: [[EdgeDriver: MicrosoftEdge on WINDOWS (9413aa5618177f7ed68459919346d5ce)] -> xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[2]/div[3]/h4/a]
+Clicked on: [[EdgeDriver: MicrosoftEdge on WINDOWS (9413aa5618177f7ed68459919346d5ce)] -> xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[2]/div[3]/h4/a]
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/h1
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/h1
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[1]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[1]/span
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[2]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[2]/span
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[3]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[3]/span
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/h1
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/h1
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/p
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/p
+"Mr. John Chowdhury","Chairman","01792037716","john@nksoft.com","NK Soft Limited","Road No: 13, House # 4, Shakhertech, Shamoli, Dhaka-1207"
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[3]/div[3]/h4/a
+Found Element By : By.xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[3]/div[3]/h4/a
+Trying to click on: [[EdgeDriver: MicrosoftEdge on WINDOWS (9413aa5618177f7ed68459919346d5ce)] -> xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[3]/div[3]/h4/a]
+Clicked on: [[EdgeDriver: MicrosoftEdge on WINDOWS (9413aa5618177f7ed68459919346d5ce)] -> xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[3]/div[3]/h4/a]
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/h1
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/h1
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[1]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[1]/span
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[2]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[2]/span
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[3]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[3]/span
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/h1
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/h1
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/p
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/p
+"Zahed Rahman","Partner","01844001007","biz@jhorotek.com","jhoroTEK","Ta-131(8th Floor), Wakil Tower, Middle Badda, Gulshan-Badda Link Road, Gulshan, Dhaka-1212"
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[4]/div[3]/h4/a
+Found Element By : By.xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[4]/div[3]/h4/a
+Trying to click on: [[EdgeDriver: MicrosoftEdge on WINDOWS (9413aa5618177f7ed68459919346d5ce)] -> xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[4]/div[3]/h4/a]
+Clicked on: [[EdgeDriver: MicrosoftEdge on WINDOWS (9413aa5618177f7ed68459919346d5ce)] -> xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[4]/div[3]/h4/a]
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/h1
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/h1
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[1]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[1]/span
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[2]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[2]/span
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[3]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[3]/span
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/h1
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/h1
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/p
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/p
+"Mr. Capt. Saifur Rahman","Managing Director","01711548121","captsaif@ebd-bd.com","Networld Bangladesh Limited","41/1 Kazi Nazrul Islam Avenue, Dhaka-1215"
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[5]/div[3]/h4/a
+Found Element By : By.xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[5]/div[3]/h4/a
+Trying to click on: [[EdgeDriver: MicrosoftEdge on WINDOWS (9413aa5618177f7ed68459919346d5ce)] -> xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[5]/div[3]/h4/a]
+Clicked on: [[EdgeDriver: MicrosoftEdge on WINDOWS (9413aa5618177f7ed68459919346d5ce)] -> xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[5]/div[3]/h4/a]
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/h1
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/h1
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[1]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[1]/span
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[2]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[2]/span
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[3]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[3]/span
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/h1
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/h1
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/p
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/p
+"Mr. Nabeel Ud Daulah","Managing Director","01841234562","ndaulah@ravensystemsltd.com","Raven Systems Ltd.","33, 37 Milkvita Road, Section-7, Mirpur Dhaka, Bangladesh"
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[6]/div[3]/h4/a
+Found Element By : By.xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[6]/div[3]/h4/a
+Trying to click on: [[EdgeDriver: MicrosoftEdge on WINDOWS (9413aa5618177f7ed68459919346d5ce)] -> xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[6]/div[3]/h4/a]
+Clicked on: [[EdgeDriver: MicrosoftEdge on WINDOWS (9413aa5618177f7ed68459919346d5ce)] -> xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[6]/div[3]/h4/a]
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/h1
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/h1
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[1]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[1]/span
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[2]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[2]/span
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[3]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[3]/span
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/h1
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/h1
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/p
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/p
+"Mr. S.M. Saiful Islam","Managing Director","01730001556","info@initvent.com","InitVent Consulting Services Ltd.","Flat # 5/B, Khan Tower, 51 Sonergaon Janapath, Sector-7, Uttara, Dhaka-1230"
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[7]/div[3]/h4/a
+Found Element By : By.xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[7]/div[3]/h4/a
+Trying to click on: [[EdgeDriver: MicrosoftEdge on WINDOWS (9413aa5618177f7ed68459919346d5ce)] -> xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[7]/div[3]/h4/a]
+Clicked on: [[EdgeDriver: MicrosoftEdge on WINDOWS (9413aa5618177f7ed68459919346d5ce)] -> xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[7]/div[3]/h4/a]
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/h1
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/h1
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[1]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[1]/span
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[2]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[2]/span
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[3]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[3]/span
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/h1
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/h1
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/p
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/p
+"Capt. Ahmed Ruhullah","Chairman","01730452459","ahmed.ruhullah@webon-prepress.com","Webon Pre-Press Services Ltd.","Kha-47/1, 2nd floor, Progoti Sarani, Shahjadpur, Gulshan"
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[8]/div[3]/h4/a
+Found Element By : By.xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[8]/div[3]/h4/a
+Trying to click on: [[EdgeDriver: MicrosoftEdge on WINDOWS (9413aa5618177f7ed68459919346d5ce)] -> xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[8]/div[3]/h4/a]
+Clicked on: [[EdgeDriver: MicrosoftEdge on WINDOWS (9413aa5618177f7ed68459919346d5ce)] -> xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[8]/div[3]/h4/a]
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/h1
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/h1
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[1]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[1]/span
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[2]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[2]/span
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[3]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[3]/span
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/h1
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/h1
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/p
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/p
+"Mir Nasir Hossain","Proprietor","01711521828","nasir@mirtelbd.com","Jupiter Technology","House No. 04, Road No. 21, Gulshan-1, Dhaka-1212"
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[9]/div[3]/h4/a
+Found Element By : By.xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[9]/div[3]/h4/a
+Trying to click on: [[EdgeDriver: MicrosoftEdge on WINDOWS (9413aa5618177f7ed68459919346d5ce)] -> xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[9]/div[3]/h4/a]
+Clicked on: [[EdgeDriver: MicrosoftEdge on WINDOWS (9413aa5618177f7ed68459919346d5ce)] -> xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[9]/div[3]/h4/a]
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/h1
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/h1
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[1]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[1]/span
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[2]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[2]/span
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[3]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[3]/span
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/h1
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/h1
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/p
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/p
+"Mr. Imran Molla","CEO","01612302124","imran.molla@gmail.com","Adventure Soft","House # 58 (Ground floor), Road # 16, Sector # 14, Uttara, Dhaka-1230"
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[10]/div[3]/h4/a
+Found Element By : By.xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[10]/div[3]/h4/a
+Trying to click on: [[EdgeDriver: MicrosoftEdge on WINDOWS (9413aa5618177f7ed68459919346d5ce)] -> xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[10]/div[3]/h4/a]
+Clicked on: [[EdgeDriver: MicrosoftEdge on WINDOWS (9413aa5618177f7ed68459919346d5ce)] -> xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[10]/div[3]/h4/a]
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/h1
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/h1
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[1]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[1]/span
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[2]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[2]/span
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[3]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[3]/span
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/h1
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/h1
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/p
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/p
+"Mr. Anis Ahmed","CEO","01711307878","ctganis@gmail.com","The World","G/66, (2nd Floor), Road no.1, Block-C, Lane-3, South Khulshi R/A, Chattogram"
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[11]/div[3]/h4/a
+Found Element By : By.xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[11]/div[3]/h4/a
+Trying to click on: [[EdgeDriver: MicrosoftEdge on WINDOWS (9413aa5618177f7ed68459919346d5ce)] -> xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[11]/div[3]/h4/a]
+Clicked on: [[EdgeDriver: MicrosoftEdge on WINDOWS (9413aa5618177f7ed68459919346d5ce)] -> xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[11]/div[3]/h4/a]
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/h1
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/h1
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[1]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[1]/span
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[2]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[2]/span
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[3]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[3]/span
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/h1
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/h1
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/p
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/p
+"Mr. Moinur Hussain Chowdhury","Managing Director","01730433711","moinur.hossain@softwindtech.com","Softwind Tech Ltd.","House 73, Level-4, Road 13/A Block-D Banani Dhaka: 1213."
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[12]/div[3]/h4/a
+Found Element By : By.xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[12]/div[3]/h4/a
+Trying to click on: [[EdgeDriver: MicrosoftEdge on WINDOWS (9413aa5618177f7ed68459919346d5ce)] -> xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[12]/div[3]/h4/a]
+Clicked on: [[EdgeDriver: MicrosoftEdge on WINDOWS (9413aa5618177f7ed68459919346d5ce)] -> xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[12]/div[3]/h4/a]
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/h1
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/h1
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[1]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[1]/span
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[2]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[2]/span
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[3]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[3]/span
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/h1
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/h1
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/p
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/p
+"A. M. Ehsan-ul Haque","Chief Executive Officer","01713012417","ehsan@adntechnologies.net","ADN Technologies Ltd.","Red Crescent Concord Tower (2nd Floor), 17 Mohakhali C/A, Dhaka-1212."
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[13]/div[3]/h4/a
+Found Element By : By.xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[13]/div[3]/h4/a
+Trying to click on: [[EdgeDriver: MicrosoftEdge on WINDOWS (9413aa5618177f7ed68459919346d5ce)] -> xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[13]/div[3]/h4/a]
+Clicked on: [[EdgeDriver: MicrosoftEdge on WINDOWS (9413aa5618177f7ed68459919346d5ce)] -> xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[13]/div[3]/h4/a]
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/h1
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/h1
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[1]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[1]/span
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[2]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[2]/span
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[3]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[3]/span
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/h1
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/h1
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/p
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/p
+"Mr. Shahjahan Ahamed Saju","Managing Director","01711853814","saju@hosting4bd.com","HOSTING4BD Ltd.","House No# 20/1 (2nd Floor), 60 Feet Road, Opposite of Leguna Stand, Borobag, Mirpur-2, Dhaka-1216"
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[14]/div[3]/h4/a
+Found Element By : By.xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[14]/div[3]/h4/a
+Trying to click on: [[EdgeDriver: MicrosoftEdge on WINDOWS (9413aa5618177f7ed68459919346d5ce)] -> xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[14]/div[3]/h4/a]
+Clicked on: [[EdgeDriver: MicrosoftEdge on WINDOWS (9413aa5618177f7ed68459919346d5ce)] -> xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[14]/div[3]/h4/a]
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/h1
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/h1
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[1]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[1]/span
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[2]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[2]/span
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[3]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[3]/span
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/h1
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/h1
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/p
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/p
+"Mr. Mohammad Tohidur Rahman Bhuiyan","MD & CEO","01714003040","ceo.tohid@righttime.biz","Right Time Limited","Level-06 & 14 (west), BDBL Bhaban, 12 Kawran Bazar, Tejgaon, Post Code: 1215, Dhaka, Bangladesh"
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[15]/div[3]/h4/a
+Found Element By : By.xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[15]/div[3]/h4/a
+Trying to click on: [[EdgeDriver: MicrosoftEdge on WINDOWS (9413aa5618177f7ed68459919346d5ce)] -> xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[15]/div[3]/h4/a]
+Clicked on: [[EdgeDriver: MicrosoftEdge on WINDOWS (9413aa5618177f7ed68459919346d5ce)] -> xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[15]/div[3]/h4/a]
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/h1
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/h1
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[1]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[1]/span
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[2]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[2]/span
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[3]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[3]/span
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/h1
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/h1
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/p
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/p
+"Mr. Asadullah Al Galib","Manager, Accounts & Logistics","01721918086","asad.galib@aplombtechbd.com","AplombTech BD Ltd.","House-641,Road-3,Block-H,Bashundhara R/A,Dhaka"
+PASSED: DataRetritveTest
+
+===============================================
+    Default test
+    Tests run: 1, Failures: 0, Skips: 0
+===============================================
+
+
+===============================================
+Default suite
+Total tests run: 1, Passes: 1, Failures: 0, Skips: 0
+===============================================
+

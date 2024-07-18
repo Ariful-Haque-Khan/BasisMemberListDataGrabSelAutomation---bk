@@ -1,0 +1,391 @@
+[RemoteTestNG] detected TestNG version 7.4.0
+https://basis.org.bd/member-list
+edge
+Starting Microsoft Edge WebDriver 126.0.2592.81 (38151611195b9357be892bf1ae5c4b7942a1b216) on port 6058
+To submit feedback, report a bug, or suggest new features, please visit https://github.com/MicrosoftEdge/EdgeWebDriver
+
+Only local connections are allowed.
+Please see https://aka.ms/WebDriverSecurity for suggestions on keeping Microsoft Edge WebDriver safe.
+
+Microsoft Edge WebDriver was started successfully.
+Jul 09, 2024 3:56:51 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+https://basis.org.bd/member-list
+edge
+Before navigating to: 'https://basis.org.bd/member-list'
+Navigated to:'https://basis.org.bd/member-list'
+https://basis.org.bd/member-list
+edge
+1
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[1]/div[3]/h4/a
+Found Element By : By.xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[1]/div[3]/h4/a
+Trying to click on: [[EdgeDriver: MicrosoftEdge on WINDOWS (504fae180e5466dc46d59057d0b89ebb)] -> xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[1]/div[3]/h4/a]
+Clicked on: [[EdgeDriver: MicrosoftEdge on WINDOWS (504fae180e5466dc46d59057d0b89ebb)] -> xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[1]/div[3]/h4/a]
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/h1
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/h1
+Md Hasan Shemon
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[1]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[1]/span
+Managing Director
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[2]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[2]/span
+01322446363
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[3]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[3]/span
+personal.shemon@gmail.com
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/h1
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/h1
+SOFTIC OPC
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/p
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/p
+AHN Tower, 13/15 Beponon, Bir Uttam CR Datta Road, Bangla Motor, Dhaka
+"Md Hasan Shemon","Managing Director","01322446363","personal.shemon@gmail.com","SOFTIC OPC","AHN Tower, 13/15 Beponon, Bir Uttam CR Datta Road, Bangla Motor, Dhaka"
+2
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[2]/div[3]/h4/a
+Found Element By : By.xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[2]/div[3]/h4/a
+Trying to click on: [[EdgeDriver: MicrosoftEdge on WINDOWS (504fae180e5466dc46d59057d0b89ebb)] -> xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[2]/div[3]/h4/a]
+Clicked on: [[EdgeDriver: MicrosoftEdge on WINDOWS (504fae180e5466dc46d59057d0b89ebb)] -> xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[2]/div[3]/h4/a]
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/h1
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/h1
+Md Iqbal Hossain
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[1]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[1]/span
+Proprietor
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[2]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[2]/span
+01713063877
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[3]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[3]/span
+santo_iqb@yaho.com
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/h1
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/h1
+Dolphin IT Solutions
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/p
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/p
+Banglabazar, Narashighopur, Ashulia, Savar
+"Md Iqbal Hossain","Proprietor","01713063877","santo_iqb@yaho.com","Dolphin IT Solutions","Banglabazar, Narashighopur, Ashulia, Savar"
+3
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[3]/div[3]/h4/a
+Found Element By : By.xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[3]/div[3]/h4/a
+Trying to click on: [[EdgeDriver: MicrosoftEdge on WINDOWS (504fae180e5466dc46d59057d0b89ebb)] -> xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[3]/div[3]/h4/a]
+Clicked on: [[EdgeDriver: MicrosoftEdge on WINDOWS (504fae180e5466dc46d59057d0b89ebb)] -> xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[3]/div[3]/h4/a]
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/h1
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/h1
+H.M Saiful Islam
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[1]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[1]/span
+Chairman
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[2]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[2]/span
+01717643279
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[3]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[3]/span
+Saiful@ngdsl.com
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/h1
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/h1
+NextGen Data Systems LTD.
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/p
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/p
+571/1 (Level-4) Begum Rokeya Sharani, East Kazipara, Mirpur, Dhaka-1216.
+"H.M Saiful Islam","Chairman","01717643279","Saiful@ngdsl.com","NextGen Data Systems LTD.","571/1 (Level-4) Begum Rokeya Sharani, East Kazipara, Mirpur, Dhaka-1216."
+4
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[4]/div[3]/h4/a
+Found Element By : By.xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[4]/div[3]/h4/a
+Trying to click on: [[EdgeDriver: MicrosoftEdge on WINDOWS (504fae180e5466dc46d59057d0b89ebb)] -> xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[4]/div[3]/h4/a]
+Clicked on: [[EdgeDriver: MicrosoftEdge on WINDOWS (504fae180e5466dc46d59057d0b89ebb)] -> xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[4]/div[3]/h4/a]
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/h1
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/h1
+Md Joynal Abedin
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[1]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[1]/span
+Managing Director
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[2]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[2]/span
+01629111902
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[3]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[3]/span
+ogoni@ts4u.us
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/h1
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/h1
+TS4U Limited
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/p
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/p
+9143, Plot 2, Baunia Bazar, Vadalodi
+"Md Joynal Abedin","Managing Director","01629111902","ogoni@ts4u.us","TS4U Limited","9143, Plot 2, Baunia Bazar, Vadalodi"
+5
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[5]/div[3]/h4/a
+Found Element By : By.xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[5]/div[3]/h4/a
+Trying to click on: [[EdgeDriver: MicrosoftEdge on WINDOWS (504fae180e5466dc46d59057d0b89ebb)] -> xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[5]/div[3]/h4/a]
+Clicked on: [[EdgeDriver: MicrosoftEdge on WINDOWS (504fae180e5466dc46d59057d0b89ebb)] -> xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[5]/div[3]/h4/a]
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/h1
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/h1
+Sheikh Rifat
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[1]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[1]/span
+Managing Director
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[2]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[2]/span
+01744569317
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[3]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[3]/span
+srifat748@gmail.com
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/h1
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/h1
+Akaar IT Ltd.
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/p
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/p
+House 51/C, Road 13/B, Sector 3, Uttara
+"Sheikh Rifat","Managing Director","01744569317","srifat748@gmail.com","Akaar IT Ltd.","House 51/C, Road 13/B, Sector 3, Uttara"
+6
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[6]/div[3]/h4/a
+Found Element By : By.xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[6]/div[3]/h4/a
+Trying to click on: [[EdgeDriver: MicrosoftEdge on WINDOWS (504fae180e5466dc46d59057d0b89ebb)] -> xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[6]/div[3]/h4/a]
+Clicked on: [[EdgeDriver: MicrosoftEdge on WINDOWS (504fae180e5466dc46d59057d0b89ebb)] -> xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[6]/div[3]/h4/a]
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/h1
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/h1
+Refat Mahmud Ritu
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[1]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[1]/span
+Director
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[2]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[2]/span
+01730714578
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[3]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[3]/span
+moslehuddinahmed2@gmail.com
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/h1
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/h1
+Code Spiders Limited
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/p
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/p
+House#C14, Road#06, Eastern Housing-02, South Kallyanpur, Dhaka-1216, Bangladesh.
+"Refat Mahmud Ritu","Director","01730714578","moslehuddinahmed2@gmail.com","Code Spiders Limited","House#C14, Road#06, Eastern Housing-02, South Kallyanpur, Dhaka-1216, Bangladesh."
+7
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[7]/div[3]/h4/a
+Found Element By : By.xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[7]/div[3]/h4/a
+Trying to click on: [[EdgeDriver: MicrosoftEdge on WINDOWS (504fae180e5466dc46d59057d0b89ebb)] -> xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[7]/div[3]/h4/a]
+Clicked on: [[EdgeDriver: MicrosoftEdge on WINDOWS (504fae180e5466dc46d59057d0b89ebb)] -> xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[7]/div[3]/h4/a]
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/h1
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/h1
+Syed Abdullah Jayed
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[1]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[1]/span
+CEO and Managing Partner
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[2]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[2]/span
+01672134960
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[3]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[3]/span
+finance@wearenext.io
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/h1
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/h1
+M/s. Finalytics
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/p
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/p
+42/4-KA,Green Orlando,Pragati Sarani,Jagannathpur,Vatara
+"Syed Abdullah Jayed","CEO and Managing Partner","01672134960","finance@wearenext.io","M/s. Finalytics","42/4-KA,Green Orlando,Pragati Sarani,Jagannathpur,Vatara"
+8
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[8]/div[3]/h4/a
+Found Element By : By.xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[8]/div[3]/h4/a
+Trying to click on: [[EdgeDriver: MicrosoftEdge on WINDOWS (504fae180e5466dc46d59057d0b89ebb)] -> xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[8]/div[3]/h4/a]
+Clicked on: [[EdgeDriver: MicrosoftEdge on WINDOWS (504fae180e5466dc46d59057d0b89ebb)] -> xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[8]/div[3]/h4/a]
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/h1
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/h1
+MD YOUNUS
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[1]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[1]/span
+Managing Director
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[2]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[2]/span
+01818632353
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[3]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[3]/span
+famous.creation@gmail.com
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/h1
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/h1
+Famous Creation (Pvt.) Ltd.
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/p
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/p
+Fayenaz tower, (Flat-11/F), 37/2, Purana Paltan, Box Culvert Road, Dhaka-1000.
+"MD YOUNUS","Managing Director","01818632353","famous.creation@gmail.com","Famous Creation (Pvt.) Ltd.","Fayenaz tower, (Flat-11/F), 37/2, Purana Paltan, Box Culvert Road, Dhaka-1000."
+9
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[9]/div[3]/h4/a
+Found Element By : By.xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[9]/div[3]/h4/a
+Trying to click on: [[EdgeDriver: MicrosoftEdge on WINDOWS (504fae180e5466dc46d59057d0b89ebb)] -> xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[9]/div[3]/h4/a]
+Clicked on: [[EdgeDriver: MicrosoftEdge on WINDOWS (504fae180e5466dc46d59057d0b89ebb)] -> xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[9]/div[3]/h4/a]
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/h1
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/h1
+Mahfuzul Haque Akand
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[1]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[1]/span
+Proprietor
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[2]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[2]/span
+01689655055
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[3]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[3]/span
+akandmahfuz@gmail.com
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/h1
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/h1
+Software Bazar Bangladesh
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/p
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/p
+Office : House- 3, Road- 9/B, Sector 5, Uttara
+"Mahfuzul Haque Akand","Proprietor","01689655055","akandmahfuz@gmail.com","Software Bazar Bangladesh","Office : House- 3, Road- 9/B, Sector 5, Uttara"
+10
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[10]/div[3]/h4/a
+Found Element By : By.xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[10]/div[3]/h4/a
+Trying to click on: [[EdgeDriver: MicrosoftEdge on WINDOWS (504fae180e5466dc46d59057d0b89ebb)] -> xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[10]/div[3]/h4/a]
+Clicked on: [[EdgeDriver: MicrosoftEdge on WINDOWS (504fae180e5466dc46d59057d0b89ebb)] -> xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[10]/div[3]/h4/a]
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/h1
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/h1
+Mohammad Arfe Elahi
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[1]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[1]/span
+Managing Director
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[2]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[2]/span
+01718482426
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[3]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[3]/span
+arfeelahi@gmail.com
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/h1
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/h1
+Co-Solution Ltd
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/p
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/p
+House-196, Road 2, Avenue -3, Mirpur DOHS
+"Mohammad Arfe Elahi","Managing Director","01718482426","arfeelahi@gmail.com","Co-Solution Ltd","House-196, Road 2, Avenue -3, Mirpur DOHS"
+11
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[11]/div[3]/h4/a
+Found Element By : By.xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[11]/div[3]/h4/a
+Trying to click on: [[EdgeDriver: MicrosoftEdge on WINDOWS (504fae180e5466dc46d59057d0b89ebb)] -> xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[11]/div[3]/h4/a]
+Clicked on: [[EdgeDriver: MicrosoftEdge on WINDOWS (504fae180e5466dc46d59057d0b89ebb)] -> xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[11]/div[3]/h4/a]
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/h1
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/h1
+Md Shohani Uzzaman Joarder
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[1]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[1]/span
+CEO
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[2]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[2]/span
+01712279883
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[3]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[3]/span
+shovon@freelancers-hub.com
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/h1
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/h1
+Freelancers HUB
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/p
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/p
+A-5, House-1345, Road-13, DOHS Mirpur
+"Md Shohani Uzzaman Joarder","CEO","01712279883","shovon@freelancers-hub.com","Freelancers HUB","A-5, House-1345, Road-13, DOHS Mirpur"
+12
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[12]/div[3]/h4/a
+Found Element By : By.xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[12]/div[3]/h4/a
+Trying to click on: [[EdgeDriver: MicrosoftEdge on WINDOWS (504fae180e5466dc46d59057d0b89ebb)] -> xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[12]/div[3]/h4/a]
+Clicked on: [[EdgeDriver: MicrosoftEdge on WINDOWS (504fae180e5466dc46d59057d0b89ebb)] -> xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[12]/div[3]/h4/a]
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/h1
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/h1
+Ashabus Safa
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[1]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[1]/span
+Chairman
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[2]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[2]/span
+01324732063
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[3]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[3]/span
+safa@privilege.com.bd
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/h1
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/h1
+Privilege Technologies Ltd
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/p
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/p
+House-90, Road-17/A,Block-E, Banani, Dhaka-1213
+"Ashabus Safa","Chairman","01324732063","safa@privilege.com.bd","Privilege Technologies Ltd","House-90, Road-17/A,Block-E, Banani, Dhaka-1213"
+13
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[13]/div[3]/h4/a
+Found Element By : By.xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[13]/div[3]/h4/a
+Trying to click on: [[EdgeDriver: MicrosoftEdge on WINDOWS (504fae180e5466dc46d59057d0b89ebb)] -> xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[13]/div[3]/h4/a]
+Clicked on: [[EdgeDriver: MicrosoftEdge on WINDOWS (504fae180e5466dc46d59057d0b89ebb)] -> xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[13]/div[3]/h4/a]
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/h1
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/h1
+Md Sifat Ullah
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[1]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[1]/span
+Owner
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[2]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[2]/span
+01975104410
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[3]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[3]/span
+sifat@sumations.com.bd
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/h1
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/h1
+Sumations Bangladesh
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/p
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/p
+TA- 131, Wakil Tower, Level-6, Gulshan Badda Link Road
+"Md Sifat Ullah","Owner","01975104410","sifat@sumations.com.bd","Sumations Bangladesh","TA- 131, Wakil Tower, Level-6, Gulshan Badda Link Road"
+14
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[14]/div[3]/h4/a
+Found Element By : By.xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[14]/div[3]/h4/a
+Trying to click on: [[EdgeDriver: MicrosoftEdge on WINDOWS (504fae180e5466dc46d59057d0b89ebb)] -> xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[14]/div[3]/h4/a]
+Clicked on: [[EdgeDriver: MicrosoftEdge on WINDOWS (504fae180e5466dc46d59057d0b89ebb)] -> xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[14]/div[3]/h4/a]
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/h1
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/h1
+Shiplu Kumar Saha
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[1]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[1]/span
+Chairman
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[2]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[2]/span
+01910353535
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[3]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[3]/span
+itsglobalbangla@gmail.com
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/h1
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/h1
+IT'S Global Bangla Ltd.
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/p
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/p
+Plot-2, Block-G, Rupayan Shopping Square, Lavel-11, Bashundhara R/A,Dhaka-1229
+"Shiplu Kumar Saha","Chairman","01910353535","itsglobalbangla@gmail.com","IT'S Global Bangla Ltd.","Plot-2, Block-G, Rupayan Shopping Square, Lavel-11, Bashundhara R/A,Dhaka-1229"
+15
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[15]/div[3]/h4/a
+Found Element By : By.xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[15]/div[3]/h4/a
+Trying to click on: [[EdgeDriver: MicrosoftEdge on WINDOWS (504fae180e5466dc46d59057d0b89ebb)] -> xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[15]/div[3]/h4/a]
+Clicked on: [[EdgeDriver: MicrosoftEdge on WINDOWS (504fae180e5466dc46d59057d0b89ebb)] -> xpath: /html/body/div[1]/div/div/main/div/div[2]/div/div/div[2]/div/div[3]/div/div/div[15]/div[3]/h4/a]
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/h1
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/h1
+Md Mostafijur Rahman
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[1]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[1]/span
+Founder and CEO
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[2]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[2]/span
+01763212050
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[3]/span
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/p[3]/span
+appdevs.net@gmail.com
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/h1
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/h1
+AppDevs
+Trying to find Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/p
+Found Element By : By.xpath: /html/body/div[1]/div/div/div/div[1]/div/div[1]/div/div[1]/p
+F1 (5th floor), House: 1188, Avenue: 11, Mirpur DOHS, Dhaka 1216
+"Md Mostafijur Rahman","Founder and CEO","01763212050","appdevs.net@gmail.com","AppDevs","F1 (5th floor), House: 1188, Avenue: 11, Mirpur DOHS, Dhaka 1216"
+PASSED: DataRetritveTest
+
+===============================================
+    Default test
+    Tests run: 1, Failures: 0, Skips: 0
+===============================================
+
+
+===============================================
+Default suite
+Total tests run: 1, Passes: 1, Failures: 0, Skips: 0
+===============================================
+

@@ -1,0 +1,379 @@
+[RemoteTestNG] detected TestNG version 7.4.0
+https://www.bacco.org.bd/member-list
+edge
+Starting Microsoft Edge WebDriver 126.0.2592.81 (38151611195b9357be892bf1ae5c4b7942a1b216) on port 59888
+To submit feedback, report a bug, or suggest new features, please visit https://github.com/MicrosoftEdge/EdgeWebDriver
+
+Only local connections are allowed.
+Please see https://aka.ms/WebDriverSecurity for suggestions on keeping Microsoft Edge WebDriver safe.
+
+Microsoft Edge WebDriver was started successfully.
+Jul 16, 2024 10:39:41 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+https://www.bacco.org.bd/member-list
+edge
+Before navigating to: 'https://www.bacco.org.bd/member-list'
+Navigated to:'https://www.bacco.org.bd/member-list'
+https://www.bacco.org.bd/member-list
+edge
+Trying to find Element By : By.xpath: /html/body/div[2]/section/div/div/div[2]/div[3]/div[1]/div/div/a[2]
+Found Element By : By.xpath: /html/body/div[2]/section/div/div/div[2]/div[3]/div[1]/div/div/a[2]
+Trying to find Element By : By.xpath: /html/body/div[2]/section[1]/div/img
+Found Element By : By.xpath: /html/body/div[2]/section[1]/div/img
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[4]/div[1]/a
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[4]/div[1]/a
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[2]/div/p
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[2]/div/p
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[3]/div/p
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[3]/div/p
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[1]/h5
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[1]/h5
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[1]/div/p
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[1]/div/p
+"BASHUNDHARA TRAINING & TESTING CENTER (BTTC)","+8809617999777, +8801762696042","bttc1064@gmail.com info@bashundhara-ttc.com","bashundhara-ttc.com","123, Shekher Jayga, Khilgaon, Dhaka-1219"
+Navigating back to previous page
+Navigated back to previous page
+Trying to find Element By : By.xpath: /html/body/div[2]/section/div/div/div[2]/div[3]/div[2]/div/div/a[2]
+Found Element By : By.xpath: /html/body/div[2]/section/div/div/div[2]/div[3]/div[2]/div/div/a[2]
+Trying to find Element By : By.xpath: /html/body/div[2]/section[1]/div/img
+Found Element By : By.xpath: /html/body/div[2]/section[1]/div/img
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[4]/div[1]/a
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[4]/div[1]/a
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[2]/div/p
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[2]/div/p
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[3]/div/p
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[3]/div/p
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[1]/h5
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[1]/h5
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[1]/div/p
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[1]/div/p
+"BDTASK Limited","0258970255","bdtask@gmail.com","www.bdtask.com","B-25, Mannan Plaza, 4th floor, Khilkhet, Dhaka 1229"
+Navigating back to previous page
+Navigated back to previous page
+Trying to find Element By : By.xpath: /html/body/div[2]/section/div/div/div[2]/div[3]/div[3]/div/div/a[2]
+Found Element By : By.xpath: /html/body/div[2]/section/div/div/div[2]/div[3]/div[3]/div/div/a[2]
+Trying to find Element By : By.xpath: /html/body/div[2]/section[1]/div/img
+Found Element By : By.xpath: /html/body/div[2]/section[1]/div/img
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[4]/div[1]/a
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[4]/div[1]/a
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[2]/div/p
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[2]/div/p
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[3]/div/p
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[3]/div/p
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[1]/h5
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[1]/h5
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[1]/div/p
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[1]/div/p
+"Bizcope Digital Ltd.","+8801324738600","hello@bizcope.com","bizcope.com","89/7, RK Mission Road (Nadian Tower) Gopibag Bishwa Road, Dhaka-1203."
+Navigating back to previous page
+Navigated back to previous page
+Trying to find Element By : By.xpath: /html/body/div[2]/section/div/div/div[2]/div[3]/div[4]/div/div/a[2]
+Found Element By : By.xpath: /html/body/div[2]/section/div/div/div[2]/div[3]/div[4]/div/div/a[2]
+Trying to find Element By : By.xpath: /html/body/div[2]/section[1]/div/img
+Found Element By : By.xpath: /html/body/div[2]/section[1]/div/img
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[4]/div[1]/a
+Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[4]/div[1]/a"}
+  (Session info: MicrosoftEdge=126.0.2592.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ARIF', ip: '192.168.20.96', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 126.0.2592.102, fedcm:accounts: true, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:51100}, msedge: {msedgedriverVersion: 126.0.2592.81 (38151611195b..., userDataDir: C:\Users\arifu\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8871d98b50e004b98887b4352a02543c
+*** Element info: {Using=xpath, value=/html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[4]/div[1]/a}
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[2]/div/p
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[2]/div/p
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[3]/div/p
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[3]/div/p
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[1]/h5
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[1]/h5
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[1]/div/p
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[1]/div/p
+"Blue Moon IT Training Institute","01916741835","colali2396@gmail.com"," ","ECB, Kalshi Road, Mirpur , Dhaka"
+Navigating back to previous page
+Navigated back to previous page
+Trying to find Element By : By.xpath: /html/body/div[2]/section/div/div/div[2]/div[3]/div[5]/div/div/a[2]
+Found Element By : By.xpath: /html/body/div[2]/section/div/div/div[2]/div[3]/div[5]/div/div/a[2]
+Trying to find Element By : By.xpath: /html/body/div[2]/section[1]/div/img
+Found Element By : By.xpath: /html/body/div[2]/section[1]/div/img
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[4]/div[1]/a
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[4]/div[1]/a
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[2]/div/p
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[2]/div/p
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[3]/div/p
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[3]/div/p
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[1]/h5
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[1]/h5
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[1]/div/p
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[1]/div/p
+"Blue Pill Limited","8000555777","info@bluepill.com.bd","www.bluepill.com.bd","Akij House, 198 Bir Uttam, Mir Shawkat Sarak, Gulshan Link Road, Tejgaon, Dhaka-1208"
+Navigating back to previous page
+Navigated back to previous page
+Trying to find Element By : By.xpath: /html/body/div[2]/section/div/div/div[2]/div[3]/div[6]/div/div/a[2]
+Found Element By : By.xpath: /html/body/div[2]/section/div/div/div[2]/div[3]/div[6]/div/div/a[2]
+Trying to find Element By : By.xpath: /html/body/div[2]/section[1]/div/img
+Found Element By : By.xpath: /html/body/div[2]/section[1]/div/img
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[4]/div[1]/a
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[4]/div[1]/a
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[2]/div/p
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[2]/div/p
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[3]/div/p
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[3]/div/p
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[1]/h5
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[1]/h5
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[1]/div/p
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[1]/div/p
+"Blue Pineapple Technology Ltd","+880 1713-304945","HRD@BluePineappleTechnology.com","www.bluepineappletechnology.com","Plot No. GA-25/4, YB Hasan Uddin Tower (5th & 6th floor), Pragati Sarani Road, Shahjadpur, Gulshan, Dhaka-1212, Bangladesh"
+Navigating back to previous page
+Navigated back to previous page
+Trying to find Element By : By.xpath: /html/body/div[2]/section/div/div/div[2]/div[3]/div[7]/div/div/a[2]
+Found Element By : By.xpath: /html/body/div[2]/section/div/div/div[2]/div[3]/div[7]/div/div/a[2]
+Trying to find Element By : By.xpath: /html/body/div[2]/section[1]/div/img
+Found Element By : By.xpath: /html/body/div[2]/section[1]/div/img
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[4]/div[1]/a
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[4]/div[1]/a
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[2]/div/p
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[2]/div/p
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[3]/div/p
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[3]/div/p
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[1]/h5
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[1]/h5
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[1]/div/p
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[1]/div/p
+"BMIT Solutions Limited","01717014217","info@bmitsolutionsltd.com","www.bmit.com.bd","House-31, Lake Drive Road, Nikunjo-1, Dhaka-1229"
+Navigating back to previous page
+Navigated back to previous page
+Trying to find Element By : By.xpath: /html/body/div[2]/section/div/div/div[2]/div[3]/div[8]/div/div/a[2]
+Found Element By : By.xpath: /html/body/div[2]/section/div/div/div[2]/div[3]/div[8]/div/div/a[2]
+Trying to find Element By : By.xpath: /html/body/div[2]/section[1]/div/img
+Found Element By : By.xpath: /html/body/div[2]/section[1]/div/img
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[4]/div[1]/a
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[4]/div[1]/a
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[2]/div/p
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[2]/div/p
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[3]/div/p
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[3]/div/p
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[1]/h5
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[1]/h5
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[1]/div/p
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[1]/div/p
+"BPOSYL Ltd","01764511058","directors@bposyl.com","www.bposyl.com","Registered Address : IVY Complex, Uddipon-47/2, Mirabazar. Sylhet - 3100 Billing Address - Raj Villa (Level-4), House-1, Road-1, Block-E, Shahjalal Uposohor, Sylhet - 3100"
+Navigating back to previous page
+Navigated back to previous page
+Trying to find Element By : By.xpath: /html/body/div[2]/section/div/div/div[2]/div[3]/div[9]/div/div/a[2]
+Found Element By : By.xpath: /html/body/div[2]/section/div/div/div[2]/div[3]/div[9]/div/div/a[2]
+Trying to find Element By : By.xpath: /html/body/div[2]/section[1]/div/img
+Found Element By : By.xpath: /html/body/div[2]/section[1]/div/img
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[4]/div[1]/a
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[4]/div[1]/a
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[2]/div/p
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[2]/div/p
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[3]/div/p
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[3]/div/p
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[1]/h5
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[1]/h5
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[1]/div/p
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[1]/div/p
+"BRACNet Limited","02-41080481","regulatory@bracmail.net","bracnet.net","7th Floor, Navana Yusuf Infinity, 16 Mohakhali C/A, Dhaka- 1212"
+Navigating back to previous page
+Navigated back to previous page
+Trying to find Element By : By.xpath: /html/body/div[2]/section/div/div/div[2]/div[3]/div[10]/div/div/a[2]
+Found Element By : By.xpath: /html/body/div[2]/section/div/div/div[2]/div[3]/div[10]/div/div/a[2]
+Trying to find Element By : By.xpath: /html/body/div[2]/section[1]/div/img
+Found Element By : By.xpath: /html/body/div[2]/section[1]/div/img
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[4]/div[1]/a
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[4]/div[1]/a
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[2]/div/p
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[2]/div/p
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[3]/div/p
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[3]/div/p
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[1]/h5
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[1]/h5
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[1]/div/p
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[1]/div/p
+"Brain Station 23 LTD","+8801404055226","info@brainstation-23.com","https://brainstation-23.com","Mohakhali Branch: 8th Floor Bir Uttam AK Khandokar Road, Mohakhali C/A Dhaka 1212. Mirpur Branch: Level - 3, Mirpur DOHS Cultural Centre Road No-09, Mirpur DOHS, Pallabi,Dhaka-1216"
+Navigating back to previous page
+Navigated back to previous page
+Trying to find Element By : By.xpath: /html/body/div[2]/section/div/div/div[2]/div[3]/div[11]/div/div/a[2]
+Found Element By : By.xpath: /html/body/div[2]/section/div/div/div[2]/div[3]/div[11]/div/div/a[2]
+Trying to find Element By : By.xpath: /html/body/div[2]/section[1]/div/img
+Found Element By : By.xpath: /html/body/div[2]/section[1]/div/img
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[4]/div[1]/a
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[4]/div[1]/a
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[2]/div/p
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[2]/div/p
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[3]/div/p
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[3]/div/p
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[1]/h5
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[1]/h5
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[1]/div/p
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[1]/div/p
+"BRIGHT RIVER BANGLADESH LIMITED","+880255111679","riajul@brightriverbd.com","www.brightriver.bd.com","166-167, SYED NAZRUL ISLAM SARANI, SUITE 301-305, PURANA PALTAN, DHAKA-1000."
+Navigating back to previous page
+Navigated back to previous page
+Trying to find Element By : By.xpath: /html/body/div[2]/section/div/div/div[2]/div[3]/div[12]/div/div/a[2]
+Found Element By : By.xpath: /html/body/div[2]/section/div/div/div[2]/div[3]/div[12]/div/div/a[2]
+Trying to find Element By : By.xpath: /html/body/div[2]/section[1]/div/img
+Found Element By : By.xpath: /html/body/div[2]/section[1]/div/img
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[4]/div[1]/a
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[4]/div[1]/a
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[2]/div/p
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[2]/div/p
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[3]/div/p
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[3]/div/p
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[1]/h5
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[1]/h5
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[1]/div/p
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[1]/div/p
+"BRITISH BENGLA TRAVEL","01816103732","noim@britishbanglatravel.com","http://www.britishbanglatravel.com/","Ataturk Tower, 22 Kemal Ataturk Avenue, Banani, Dhaka-1213"
+Navigating back to previous page
+Navigated back to previous page
+Trying to find Element By : By.xpath: /html/body/div[2]/section/div/div/div[2]/div[3]/div[13]/div/div/a[2]
+Found Element By : By.xpath: /html/body/div[2]/section/div/div/div[2]/div[3]/div[13]/div/div/a[2]
+Trying to find Element By : By.xpath: /html/body/div[2]/section[1]/div/img
+Found Element By : By.xpath: /html/body/div[2]/section[1]/div/img
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[4]/div[1]/a
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[4]/div[1]/a
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[2]/div/p
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[2]/div/p
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[3]/div/p
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[3]/div/p
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[1]/h5
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[1]/h5
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[1]/div/p
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[1]/div/p
+"BROTECS TECHNOLOGIES LIMITED","+88 02 8933139/42, +88 02 4109 0191/2","info@brotecs.com","www.brotecs.com","20, Shahjalal Avenue, Level-8 & 10, Sector: 4, Uttara, Dhaka-1230"
+Navigating back to previous page
+Navigated back to previous page
+Trying to find Element By : By.xpath: /html/body/div[2]/section/div/div/div[2]/div[3]/div[14]/div/div/a[2]
+Found Element By : By.xpath: /html/body/div[2]/section/div/div/div[2]/div[3]/div[14]/div/div/a[2]
+Trying to find Element By : By.xpath: /html/body/div[2]/section[1]/div/img
+Found Element By : By.xpath: /html/body/div[2]/section[1]/div/img
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[4]/div[1]/a
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[4]/div[1]/a
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[2]/div/p
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[2]/div/p
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[3]/div/p
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[3]/div/p
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[1]/h5
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[1]/h5
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[1]/div/p
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[1]/div/p
+"Business Automation Ltd.","02-55012128","sohana@batworld.com","www.batworld.com","BDBL Bhaban, Level-9, 12 Kawran Bazar, Dhaka-1215"
+Navigating back to previous page
+Navigated back to previous page
+Trying to find Element By : By.xpath: /html/body/div[2]/section/div/div/div[2]/div[3]/div[15]/div/div/a[2]
+Found Element By : By.xpath: /html/body/div[2]/section/div/div/div[2]/div[3]/div[15]/div/div/a[2]
+Trying to find Element By : By.xpath: /html/body/div[2]/section[1]/div/img
+Found Element By : By.xpath: /html/body/div[2]/section[1]/div/img
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[4]/div[1]/a
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[4]/div[1]/a
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[2]/div/p
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[2]/div/p
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[3]/div/p
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[3]/div/p
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[1]/h5
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[1]/h5
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[1]/div/p
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[1]/div/p
+"BYSL Global Technologies Limited","8809666722788","info@byslglobal.com","www.byslglobal.com","Level 3, Akram Center, 212 S.S Nazrul Islam Sharani, Purana Paltan, Dhaka 1000"
+Navigating back to previous page
+Navigated back to previous page
+Trying to find Element By : By.xpath: /html/body/div[2]/section/div/div/div[2]/div[3]/div[16]/div/div/a[2]
+Found Element By : By.xpath: /html/body/div[2]/section/div/div/div[2]/div[3]/div[16]/div/div/a[2]
+Trying to find Element By : By.xpath: /html/body/div[2]/section[1]/div/img
+Found Element By : By.xpath: /html/body/div[2]/section[1]/div/img
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[4]/div[1]/a
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[4]/div[1]/a
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[2]/div/p
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[2]/div/p
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[3]/div/p
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[3]/div/p
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[1]/h5
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[1]/h5
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[1]/div/p
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[1]/div/p
+"CALL CONNECTION","01772058703","callconnection.bd@gmail.com","N/A","Ta-39/01 Badda Link Road, Middle Badda, Dhaka-1212"
+Navigating back to previous page
+Navigated back to previous page
+Trying to find Element By : By.xpath: /html/body/div[2]/section/div/div/div[2]/div[3]/div[17]/div/div/a[2]
+Found Element By : By.xpath: /html/body/div[2]/section/div/div/div[2]/div[3]/div[17]/div/div/a[2]
+Trying to find Element By : By.xpath: /html/body/div[2]/section[1]/div/img
+Found Element By : By.xpath: /html/body/div[2]/section[1]/div/img
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[4]/div[1]/a
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[4]/div[1]/a
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[2]/div/p
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[2]/div/p
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[3]/div/p
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[3]/div/p
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[1]/h5
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[1]/h5
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[1]/div/p
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[1]/div/p
+"Call Point Business Solutions","01856666795","operations@callpointbusinesssolution.com","www.callpointbusinesssolutions.com","6/B, 3/1, Mipur, Dhaka-1216"
+Navigating back to previous page
+Navigated back to previous page
+Trying to find Element By : By.xpath: /html/body/div[2]/section/div/div/div[2]/div[3]/div[18]/div/div/a[2]
+Found Element By : By.xpath: /html/body/div[2]/section/div/div/div[2]/div[3]/div[18]/div/div/a[2]
+Trying to find Element By : By.xpath: /html/body/div[2]/section[1]/div/img
+Found Element By : By.xpath: /html/body/div[2]/section[1]/div/img
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[4]/div[1]/a
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[4]/div[1]/a
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[2]/div/p
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[2]/div/p
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[3]/div/p
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[3]/div/p
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[1]/h5
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[1]/h5
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[1]/div/p
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[1]/div/p
+"CAREERSHUB BANGLADESH LIMITED","01674942307","info@careershubbd.com","www.careershubbd.com","House No. 85"
+Navigating back to previous page
+Navigated back to previous page
+Trying to find Element By : By.xpath: /html/body/div[2]/section/div/div/div[2]/div[3]/div[19]/div/div/a[2]
+Found Element By : By.xpath: /html/body/div[2]/section/div/div/div[2]/div[3]/div[19]/div/div/a[2]
+Trying to find Element By : By.xpath: /html/body/div[2]/section[1]/div/img
+Found Element By : By.xpath: /html/body/div[2]/section[1]/div/img
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[4]/div[1]/a
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[4]/div[1]/a
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[2]/div/p
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[2]/div/p
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[3]/div/p
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[3]/div/p
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[1]/h5
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[1]/h5
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[1]/div/p
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[1]/div/p
+"CBSG Informatix","+880258155672","info@cbsg-informatix.com","cbsg-informatix.com","4/2 Block B (4th Floor), Lalmatia, Dhaka 1207"
+Navigating back to previous page
+Navigated back to previous page
+Trying to find Element By : By.xpath: /html/body/div[2]/section/div/div/div[2]/div[3]/div[20]/div/div/a[2]
+Found Element By : By.xpath: /html/body/div[2]/section/div/div/div[2]/div[3]/div[20]/div/div/a[2]
+Trying to find Element By : By.xpath: /html/body/div[2]/section[1]/div/img
+Found Element By : By.xpath: /html/body/div[2]/section[1]/div/img
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[4]/div[1]/a
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[4]/div[1]/a
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[2]/div/p
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[2]/div/p
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[3]/div/p
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[3]/div/p
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[1]/h5
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[1]/h5
+Trying to find Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[1]/div/p
+Found Element By : By.xpath: /html/body/div[2]/section[2]/div/div/div/div/div[2]/div/div[1]/div[1]/div/p
+"CDS System & Solution Limited","8801678077025","cdsssl2017@gmail.com","www.cdsssl.com","Register Address: Kha-50, Khilkhet, Dhaka-1229. Corporate Address: House-21, Road-13, Sec-01, Uttara, Dhaka-1230."
+Navigating back to previous page
+Navigated back to previous page
+PASSED: DataRetritveTest
+
+===============================================
+    Default test
+    Tests run: 1, Failures: 0, Skips: 0
+===============================================
+
+
+===============================================
+Default suite
+Total tests run: 1, Passes: 1, Failures: 0, Skips: 0
+===============================================
+
